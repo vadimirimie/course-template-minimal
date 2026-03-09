@@ -1,10 +1,19 @@
 format: jb-book
 root: general_information/index
 chapters:
-- file: general_information/overview
-- file: general_information/procedure
-- file: general_information/outline
-- file: general_information/setup
+- file: general_information/Bypassoperation am Herzen – Überblick
+- file: general_information/Koronare Herzkrankheit (KHK)
+- file: general_information/Risikofaktoren für Herzkranzgefäßerkrankungen
+- file: general_information/Symptome einer koronaren Herzkrankheit
+- file: general_information/Diagnostik bei Verdacht auf KHK
+- file: general_information/Behandlungsmöglichkeiten bei verengten Herzkranzgefäßen
+- file: general_information/Die Bypassoperation (CABG)
+- file: general_information/Ablauf der Herz-Bypassoperation
+- file: general_information/Risiken und mögliche Komplikationen
+- file: general_information/Nach der Bypassoperation
+- file: general_information/Leben nach einer Bypassoperation
+- file: general_information/Häufige Fragen zur Bypassoperation (FAQ)
+- file: general_information/Kontakt / Beratung
 - file: introduction/intro
   sections:
   - file: introduction/static_content
